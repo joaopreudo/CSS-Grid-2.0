@@ -13,13 +13,13 @@ body {
     display: grid;
     grid-template-columns: 200px;
     grid-template-rows: 60px auto 50px;
-    height: 95vh;
-    gap:10px;
-    padding: 10px;
     grid-template-areas: 
     "header header header"
     "navegacao conteudo conteudo"
     "rodape rodape rodape";
+    height: 95vh;
+    gap:10px;
+    padding: 10px;
 }
 
 /* tablet */
